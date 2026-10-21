@@ -1,0 +1,10 @@
+# Environment variables
+.env
+
+# Python cache and compiled bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit cache
+.streamlit/
